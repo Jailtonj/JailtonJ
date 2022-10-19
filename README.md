@@ -14,8 +14,6 @@
 
 ![Jailton GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtonj&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtonj&theme=dark)](https://github.com/JailtonJ/github-readme-stats)
-
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJ&layout=compact&langs_count=7&theme=dark"/>
 </div>
