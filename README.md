@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ### Olá! Eu sou o Jailton Júnior ✌️
 
