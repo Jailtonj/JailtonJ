@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Olá! Eu sou o Jailton Júnior ✌️
 
 - 💰 I'm currently looking for an internship.
@@ -32,6 +34,8 @@ Sempre em busca de conhecimento, pois só ele transforma.
 ## Contato:
 
 - 🏰 Contact me via my email = jailtonpereira762@gmail.com
+    
+</div>
 
 ![snake gif](https://github.com/JailtonJ/JailtonJ/blob/output/github-contribution-grid-snake.svg)
 
