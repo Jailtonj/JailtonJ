@@ -16,6 +16,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtonj)](https://github.com/JailtonJ/github-readme-stats)
 
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formandodev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
