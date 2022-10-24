@@ -8,7 +8,7 @@
 - 🌐 I'm looking for help to expand my Networking.
 - ⛰️ Ask about my routine.
  
-<p align="center">
+<p align="left">
   <img alt="" src="https://user-images.githubusercontent.com/110994241/197631019-5244d6af-4dd0-4cf0-a713-ea87d14a4a36.gif"/>
 </p>
 
