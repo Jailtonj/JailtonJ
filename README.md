@@ -9,7 +9,7 @@
 - ⛰️ Ask about my routine.
  
  <p align="center">
-  <img alt="" src="https://media.giphy.com/media/CW16nFVXLSQxSMUEMd/giphy-downsized-large.gif" />
+  <img alt="" src="https://media.giphy.com/media/CW16nFVXLSQxSMUEMd/giphy-downsized-large.gif"/>
 </p>
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
