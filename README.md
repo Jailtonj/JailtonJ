@@ -8,7 +8,7 @@
 - 🌐 I'm looking for help to expand my Networking.
 - ⛰️ Ask about my routine.
 
- <img src="https://giphy.com/embed/fVUnEVLKi2CWqF2yxF" width="30">
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-júnior-89243b243/)
