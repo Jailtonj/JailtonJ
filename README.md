@@ -9,7 +9,7 @@
 - ⛰️ Ask about my routine.
  
  <p align="center">
-  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://www.behance.net/gallery/152411011/GIF-collection-3/modules/860300795.gif" />
+  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://www.behance.net/gallery/152411011/GIF-collection-3/modules/860300795" />
 </p>
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
