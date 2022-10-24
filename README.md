@@ -12,10 +12,6 @@
   <img alt="" src="https://user-images.githubusercontent.com/110994241/197631019-5244d6af-4dd0-4cf0-a713-ea87d14a4a36.gif"/>
 </p>
 
-
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailton-júnior-89243b243/)
 [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kvothe010)
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jailto_on/)
