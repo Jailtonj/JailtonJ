@@ -7,6 +7,10 @@
 - 📗 I am studying Information Technology.
 - 🌐 I'm looking for help to expand my Networking.
 - ⛰️ Ask about my routine.
+ 
+ <p align="center">
+  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" />
+</p>
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
