@@ -9,7 +9,7 @@
 - ⛰️ Ask about my routine.
  
 <p align="center">
-  <img alt="" src="https://user-images.githubusercontent.com/110994241/197630280-4cac4ea5-3d00-4a72-8375-4aefabba0003.gif" />
+  <img alt="" src="https://user-images.githubusercontent.com/110994241/197631019-5244d6af-4dd0-4cf0-a713-ea87d14a4a36.gif"/>
 </p>
 
 
