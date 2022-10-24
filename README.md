@@ -8,11 +8,10 @@
 - 🌐 I'm looking for help to expand my Networking.
 - ⛰️ Ask about my routine.
  
- <p align="center">
-  <img alt="" src="https://media.giphy.com/media/CW16nFVXLSQxSMUEMd/giphy-downsized-large.gif"/>
+<p align="center">
+  <img alt="" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" />
 </p>
- 
- <iframe src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CW16nFVXLSQxSMUEMd">via GIPHY</a></p>
+
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
