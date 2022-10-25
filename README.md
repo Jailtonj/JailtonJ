@@ -2,11 +2,11 @@
 
  <h1>Olá! Eu sou o Jailton Júnior ✌️</h1>
 
-- 💰 I'm currently looking for an internship.
-- 📚 I'm studying javascript.
-- 📗 I am studying Information Technology.
-- 🌐 I'm looking for help to expand my Networking.
-- ⛰️ Ask about my routine.
+- 💰 Atualmente estou procurando um estágio.
+- 📚 Estou estudando javascript.
+- 📗 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌐 Procuro ajuda para expandir meu Networking.
+- ⛰️ Pergunte sobre minha rotina.
  
 <p align="left">
   <img alt="" src="https://user-images.githubusercontent.com/110994241/197631019-5244d6af-4dd0-4cf0-a713-ea87d14a4a36.gif"/>
@@ -35,7 +35,7 @@ Sempre em busca de conhecimento, pois só ele transforma.
 
 ## Contato:
 
-- 🏰 Contact me via my email = jailtonpereira762@gmail.com
+- 🏰 Entre em contato comigo pelo meu e-mail = jailtonpereira762@gmail.com
     
 </div>
 
