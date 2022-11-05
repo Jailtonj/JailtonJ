@@ -19,7 +19,7 @@
 ![Jailton GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtonj&show_icons=true&theme=dracula)
 
 <div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJ&layout=compact&langs_count=7&theme=dark"/>
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJ&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia
