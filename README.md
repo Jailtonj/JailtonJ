@@ -16,11 +16,8 @@
 [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kvothe010)
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jailto_on/)
 
-![Jailton GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtonj&show_icons=true&theme=dracula)
-
-<div align="left">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJ&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jailtonj&show_icons=true&theme=dracula"/>
+<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJ&layout=compact&langs_count=7&theme=dark"/>
 
 ## Tecnologias que eu uso no meu dia
 
