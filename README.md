@@ -16,7 +16,7 @@
 [![Instagram]( https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jailto_on/)
 
  
- [![JailtonJ GitHub stats](https://github-readme-stats.vercel.app/api?username=JailtonJ)](https://github.com/anuraghazra/github-readme-stats)
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JailtonJ&show_icons=true&theme=dracula"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JailtonJ&layout=compact&langs_count=7&theme=dark"/>
 
