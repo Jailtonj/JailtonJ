@@ -2,7 +2,7 @@
 
  <h1>Olá! Seja Bem vindo</h1>
 
-- 💰 Atualmente estou procurando um estágio.
+- 💰 Atualmente estou procurando uma oportunidade de trabalho.
 - 📚 Estou estudando javascript.
 - 📗 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🌐 Procuro ajuda para expandir meu Networking.
