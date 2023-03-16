@@ -1,11 +1,8 @@
 <div align="left">
 
- <h1>Olá! Seja Bem vindo</h1>
+ <h1>Olá! Seja Bem vindo me chamo Jailton</h1>
 
-- 💰 Atualmente estou procurando uma oportunidade de trabalho.
-- 📚 Estou estudando javascript.
-- 📗 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌐 Procuro ajuda para expandir meu Networking.
+- 📚 Atualmente estou estudando Javascript, React e TypeScript.
  
 <p align="left">
   <img alt="" src="https://user-images.githubusercontent.com/110994241/197631019-5244d6af-4dd0-4cf0-a713-ea87d14a4a36.gif"/>
