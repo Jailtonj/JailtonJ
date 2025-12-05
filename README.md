@@ -1,6 +1,6 @@
 <div align="left">
 
- <h1>Olá! Seja Bem vindo me chamo Jailton</h1>
+ <h1>Olá! Seja Bem vindo</h1>
 
 - 📚 Atualmente estou estudando Javascript, React e TypeScript.
  
